@@ -11,6 +11,7 @@
 		3F94C71E2768FE2600C319DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94C71D2768FE2600C319DC /* ContentView.swift */; };
 		3F94C7202768FE2A00C319DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F94C71F2768FE2A00C319DC /* Assets.xcassets */; };
 		3F94C7232768FE2A00C319DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F94C7222768FE2A00C319DC /* Preview Assets.xcassets */; };
+		3F94C72B2768FE3F00C319DC /* ResultsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F94C72A2768FE3F00C319DC /* ResultsScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F94C71F2768FE2A00C319DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F94C7222768FE2A00C319DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F94C7242768FE2A00C319DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F94C72A2768FE3F00C319DC /* ResultsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F94C71B2768FE2600C319DC /* Coin_Toss_AppApp.swift */,
 				3F94C71D2768FE2600C319DC /* ContentView.swift */,
+				3F94C72A2768FE3F00C319DC /* ResultsScreen.swift */,
 				3F94C71F2768FE2A00C319DC /* Assets.xcassets */,
 				3F94C7242768FE2A00C319DC /* Info.plist */,
 				3F94C7212768FE2A00C319DC /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F94C71E2768FE2600C319DC /* ContentView.swift in Sources */,
+				3F94C72B2768FE3F00C319DC /* ResultsScreen.swift in Sources */,
 				3F94C71C2768FE2600C319DC /* Coin_Toss_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
